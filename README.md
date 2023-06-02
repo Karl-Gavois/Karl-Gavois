@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#GH-DARK-MODE-ONLY" height=50 width=50 #GH-DARK-MODE-ONLY />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50 width=50/>
           
 
           
