@@ -1,7 +1,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=000000&style=plastic" alt="karl-gavois" /> </p>
 <p align="left">Hi there 👋</p>
-
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karl-gavois&show_icons=true&theme=dark&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" alt="karl-gavois" /></p>
 
 <!--
@@ -27,3 +26,6 @@ Here are some ideas to get you started:
 <h2> My socials : </h2>
 
 <a href=https://www.linkedin.com/in/karl-gavois target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50 width=50></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=000000&style=plastic" alt="karl-gavois" /> </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karl-gavois&show_icons=true&theme=dark&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" alt="karl-gavois" /></p>
