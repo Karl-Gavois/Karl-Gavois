@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <h2> My socials : </h2>
 
-<a href=https://www.linkedin.com/in/karl-gavois><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50 width=50 target=_blank></a>
+<a href=https://www.linkedin.com/in/karl-gavois><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50 width=50 target=blank></a>
