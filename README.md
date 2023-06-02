@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karl-gavois&show_icons=true&locale=en" alt="karl-gavois" /></p>
+
 <h2> Languages and tools : </h2>
 
 <img align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50 width=50 />
