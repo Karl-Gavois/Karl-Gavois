@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <img align=left  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height=50 width=50 />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
 
-
 <h2> My socials : </h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/karl-gavois/" height=50 width=50/>
-<a href=https://www.linkedin.com/in/karl-gavois><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href=https://www.linkedin.com/in/karl-gavois><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50 width=50></a>
