@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karl-gavois&show_icons=true&theme=dark&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" alt="karl-gavois" /></p>
+
 <!--
 **Karl-Gavois/Karl-Gavois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
 - 🔭 Currently in web developement training
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karl-gavois&show_icons=true&theme=dark&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" alt="karl-gavois" /></p>
 - 🌱 Currently learning PHP and JS 
 - 💬 Ask me about : Formula 1 
 - 📫 How to reach me: <a href=https://www.linkedin.com/in/karl-gavois>Linkedin</a> and my mail
