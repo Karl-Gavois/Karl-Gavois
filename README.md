@@ -1,4 +1,4 @@
-<a href=https://www.linkedin.com/in/karl-gavois target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50 width=50></a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=000000&style=plastic" width="150" alt="karl-gavois" /> </p>
 <h1 align="center">Hello there ! 👋</h1>
 <!--
 **Karl-Gavois/Karl-Gavois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -19,8 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
 
 <h2> My socials : </h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=000000&style=plastic" width="150" alt="karl-gavois" /> </p>
+<a href=https://www.linkedin.com/in/karl-gavois target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50 width=50></a>
 
 <h2> Oui </h2>
 
