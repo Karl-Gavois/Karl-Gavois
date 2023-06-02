@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href=https://www.linkedin.com/in/karl-gavois>Linkedin</a> and my mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=000000&style=plastic" alt="karl-gavois" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karl-gavois&show_icons=true&locale=en" alt="karl-gavois" /></p>
 
 <h2> Languages and tools : </h2>
