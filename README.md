@@ -1,8 +1,5 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=000000&style=plastic" alt="karl-gavois" /> </p>
-<p align="left">Hi there 👋</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karl-gavois&show_icons=true&theme=dark&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" alt="karl-gavois" /></p>
-
+<h1 align="left">Hello there ! 👋</h1>
 <!--
 **Karl-Gavois/Karl-Gavois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
