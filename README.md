@@ -16,16 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-
 <img align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=50 width=50 />
+<img align=left  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 width=50 />            
+<img align=left  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50 width=50 />         
+<img align=left  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height=50 width=50 />          
+<img align=left src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 width=50 />
-            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50 width=50 />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height=50 width=50 />
-            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 width=50/>
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#GH-DARK-MODE-ONLY" height=50 width=50 #GH-DARK-MODE-ONLY />
           
 
