@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Currently in web developement training
-- 🌱 Currently learning PHP and JS
+- 🌱 Currently learning PHP and JS 
 - 💬 Ask me about : Formula 1 
 - 📫 How to reach me: <a href=https://www.linkedin.com/in/karl-gavois>Linkedin</a> and my mail
 - 😄 Pronouns: ...
