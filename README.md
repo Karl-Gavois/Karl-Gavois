@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=00FFE1&style=plastic" width="150" alt="karl-gavois" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=karl-gavois&label=Profile%20views&color=00FFE1&style=plastic" alt="karl-gavois" /></p>
 <h1 align="center">Hello there ! 👋</h1>
 <!--
 **Karl-Gavois/Karl-Gavois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
