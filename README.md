@@ -5,7 +5,7 @@
 
 <p align=left>🔭 Currently in web developement training </p>
 <p align=left>🌱 Currently learning PHP and JS </p>
-<p align=left>💬 Ask me about : Formula 1 </p>
+<p align=left>💬 Ask me about : Formula 1, Symfony and React</p>
 <p align=left>📫 How to reach me: <a href=https://www.linkedin.com/in/karl-gavois>My Linkedin</a> or by mail : Gavois.k@hotmail.com </p>
 
 <h2> Languages and tools : </h2>
