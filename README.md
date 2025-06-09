@@ -10,7 +10,7 @@
 
 # 💡 Last Projects : 
 
-<a href="https://cartographie-emploi-formation.boulognesurmer-attractive.fr/" align=left>Cartographie des acteurs de l'emploi et de la formation du Boulonnais</a>
+<a href="https://cartographie-emploi-formation.boulognesurmer-attractive.fr/" target="_blank" align=left>Cartographie des acteurs de l'emploi et de la formation du Boulonnais</a>
 
 
 # 💻 Tech Stack:
