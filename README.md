@@ -3,10 +3,14 @@
 <!--
 **Karl-Gavois/Karl-Gavois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<p align=left>🔭 Currently in web developement training </p>
+<p align=left>🔭 Currently looking for work </p>
 <p align=left>🌱 Currently learning PHP and JS </p>
 <p align=left>💬 Ask me about : Formula 1, Symfony and React</p>
 <p align=left>📫 How to reach me: <a href=https://www.linkedin.com/in/karl-gavois>My Linkedin</a> or by mail : Gavois.k@hotmail.com </p>
+
+# 💡 Last Projects : 
+
+<a href="https://cartographie-emploi-formation.boulognesurmer-attractive.fr/" align=left>Cartographie des acteurs de l'emploi et de la formation du Boulonnais</a>
 
 
 # 💻 Tech Stack:
