@@ -6,6 +6,8 @@
 <p align=left>💬 Ask me about : Formula 1, Symfony and React</p>
 <p align=left>📫 How to reach me: <a href=https://www.linkedin.com/in/karl-gavois>My Linkedin</a> or by mail : Gavois.k@hotmail.com </p>
 
+# 📓 <a href="https://portfolio-gavois-karl.vercel.app/" target="_blank">My Portfolio</a>
+
 # 📂 Last Projects : 
 
 <a href="https://cartographie-emploi-formation.boulognesurmer-attractive.fr/" align=left> 💼 Cartographie des acteurs de l'emploi et de la formation du Boulonnais</a>
